@@ -1,0 +1,25 @@
+body {
+  background: aliceblue;
+}
+
+.react-datepicker__time-list-item--disabled {
+  display: none;
+}
+
+.react-datepicker__input-container > input {
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  padding: 0.375rem 0.75rem;
+  width: 100%;
+}
+
+.reserved {
+  border-radius: 0.3rem;
+  background-color: #198753;
+  color: #fff;
+  font-weight: bold;
+}
+
+.reserved:hover {
+  background-color: #1bb26a;
+}
